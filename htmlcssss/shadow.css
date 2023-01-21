@@ -1,0 +1,9 @@
+div{
+    text-shadow: 3px 4px 5px red,6px 6px 6px green,6px 6px 6px green,7px 7px 7px brown;;
+}
+p{
+    height: 200px;
+    background-image: radial-gradient(circle,GREEN,RED,BLUE);
+    border: 3px solid rgb(34, 139, 130);
+    box-shadow: 5px 6px 7px brown,6px 6px 6px pink ;
+}

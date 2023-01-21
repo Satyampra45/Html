@@ -1,0 +1,33 @@
+table{
+    border-spacing: 2px;
+    border-collapse: collapse;
+}
+tbody{
+    color: green;
+    background-color: yellow;
+    
+}
+thead{
+    background-color: grey;
+    color: azure;
+    border: 2px solid black;
+}
+tfoot{
+    background-color: brown;
+    color: aqua;
+}
+caption{
+    font-size: larger;
+    font-weight: 200;
+    text-shadow: 4px 5px 6px green;
+    border: 1px solid;
+
+}
+#a:hover{
+    background-color: blue;
+    color: red;
+   
+}
+#a{
+    text-align: center;
+}

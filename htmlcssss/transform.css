@@ -1,0 +1,19 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    border: 2px solid black;
+    padding: 4rem;
+    text-shadow: 4px 6px 5px red;
+    text-size-adjust: bold;
+    transform: perspective(100px) translateZ(-100px);
+    transform: perspective(500px) scalez(2) rotateX(30deg) rotateY(45deg) ;
+}
+.tuffy{
+    text-transform: uppercase;
+    position:relative;
+    text-align: center;
+    text-overflow: ellipsis;
+    background-color: blue;
+    position: absolute;
+}

@@ -1,0 +1,14 @@
+<style>
+    table,td,tr,th{
+        background-color: aqua;
+        border: 2px solid black;
+        border-color:black;
+        padding:2rem;
+        margin:6rem;
+        border-collapse:collapse ;
+        caption-side: bottom;
+
+
+
+    }
+</style>

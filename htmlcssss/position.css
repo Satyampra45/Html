@@ -1,0 +1,25 @@
+div{
+    height: 100px;
+    width: 200px;
+    background-color: aqua;
+    padding: 4rem;
+    border: 2px solid black;
+    margin: 2px;
+    display: inline-block;/*this is the property to display the content to row order */
+
+}
+.box1{
+    position: sticky;
+    top: 10px;
+    left: 50px;
+}
+#box2{
+    position: relative;
+    top: 10px;
+    left: 50px;
+}
+#box3{
+    position: static;
+    top: 10px;
+    left: 50px;
+}

@@ -1,0 +1,19 @@
+.divi{
+    border: 2px solid;
+    height: 2rem ;
+    width: auto;
+    background-image: linear-gradient(orange,white,green);
+    background-image: linear-gradient(to right,red,blue,green);
+    background-image: linear-gradient(to right,red 5%,blue 10%,green 70%);
+
+
+    
+}
+div{
+    height: 600px;
+    width: auto;
+    padding-left:6rem;
+    color: blueviolet;
+    border: 4px solid black;
+    background-image: radial-gradient(circle,red,pink,green);
+}
